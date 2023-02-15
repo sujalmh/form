@@ -25,7 +25,6 @@ nav{
   margin: auto;
 }
 .row{
-  margin-top: 10%;
 }
 .cell{
   display: inline;
@@ -37,15 +36,18 @@ nav{
 
 .r1 button{
   background-color: rgb(152, 201, 244);
+  margin-top: 10%;
 
 
 }
 .r2 button{
   background-color: rgb(101, 178, 247);
+  margin-top: 10%;
 
 }
 .r3 button{
-  background-color: rgb(47, 153, 246);
+  background-color: rgb(47, 153, 246);  margin-top: 10%;
+
   color: white;
 }
 .r1 button:hover{
