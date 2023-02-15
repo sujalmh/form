@@ -21,7 +21,7 @@ nav{
   background-color: rgba(0,0,0,0.4);
 }
 .container{
-  width: 100vh;
+  width: 100%;
   margin: auto;
 }
 .row{
