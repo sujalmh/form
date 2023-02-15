@@ -1,0 +1,27 @@
+body{
+    background: #f0f8ff;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+nav{
+    justify-content: center;
+    padding-top: 0.75%;
+    width: 100%;
+    height: 7%;
+    color: white;
+    font-size: xx-large;
+    padding-left: 2%;
+    background-color: rgba(0, 0, 0, 0.764);
+    position: fixed;
+    z-index: 0;
+  }
+#quiz{
+    margin-top: 100px;
+    width:fit-content;
+    margin: auto;
+}
+.Oh1Vtf{
+    display: none;
+}

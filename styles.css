@@ -1,0 +1,71 @@
+body, html {
+  height: 100%;
+  margin: 0;
+
+}
+body{
+  background: aliceblue;
+  
+}
+.bg {
+  /* The image used */
+  background-image: url("cover.jpg");
+  height: 60%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+nav{
+  background-color: rgba(0,0,0,0.4);
+}
+.container{
+  width: 100vh;
+  margin: auto;
+}
+.row{
+  margin-top: 10%;
+}
+.cell{
+  display: inline;
+  width: 33%;
+}
+.col-sm-4{
+  text-align: center;
+}
+
+.r1 button{
+  background-color: rgb(152, 201, 244);
+
+
+}
+.r2 button{
+  background-color: rgb(101, 178, 247);
+
+}
+.r3 button{
+  background-color: rgb(47, 153, 246);
+  color: white;
+}
+.r1 button:hover{
+  background-color: rgb(3, 89, 164);
+  color: white;
+
+}
+.r2 button:hover{
+  background-color: rgb(2, 54, 99);
+  color: white;
+
+}
+.r3 button:hover{
+  background-color: rgb(1, 28, 51);
+  color: white;
+
+}
+
+
+footer{
+  margin-top: 8%;
+  background-color: rgb(50, 50, 50);
+  height: 18%;
+}
